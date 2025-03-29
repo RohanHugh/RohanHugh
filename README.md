@@ -5,10 +5,13 @@
 <a href="https://www.linkedin.com/in/rohan-hugh/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 <hr>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=11DF00&center=true&vCenter=true&width=435&lines=About+me%3A" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F71E&center=true&multiline=true&width=435&lines=Computer+Scientist%2C+AI+Enjoyer+and+Video+Editor%2C+I+love+all+sorts+of+music+such+as+reggae+and+heavy+metal+and+I+love+to+play+competitively+in+badminton." alt="Typing SVG" /></a>
-</a>
-</div>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=11DF00&center=true&vCenter=true&width=435&lines=About+me%3A" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00F71E&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=950&height=75&lines=Computer+Scientist%2C+AI+Enjoyer+and+Video+Editor.;I+love+all+sorts+of+music+such+as+reggae+and+heavy+metal+and+I+love+to+play+competitively+in+badminton;%22Those+who+cannot+remember+the+past+are+condemned+to+repeat+it%22" alt="Typing SVG" />
+    </a>
+
+
+
 
 <hr>
 
