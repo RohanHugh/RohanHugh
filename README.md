@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 <hr>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=11DF00&center=true&vCenter=true&width=435&lines=About+me%3A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F71E&center=true&multiline=true&width=435&lines=Computer+Scientist%2C+AI+Enjoyer+and+Video+Editor%2C+I+love+all+sorts+of+music+such+as+reggae+and+heavy+metal+and+I+love+to+play+competitively+in+badminton." alt="Typing SVG" /></a>
 </a>
 </div>
 
