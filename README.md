@@ -7,7 +7,7 @@
 <hr>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=11DF00&center=true&vCenter=true&width=435&lines=About+me%3A" alt="Typing SVG" /></a>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F71E&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=950&height=75&lines=Computer+Scientist%2C+AI+Enjoyer+and+Video+Editor.;I+love+all+sorts+of+music+such+as+reggae+and+heavy+metal+and+I+love+to+play+competitively+in+badminton;%22Those+who+cannot+remember+the+past+are+condemned+to+repeat+it%22" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F71E&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=950&height=75&lines=Computer+Scientist%2C+AI+Enjoyer+and+Video+Editor.;I+love+all+sorts+of+music+such+as+reggae+and+heavy+metal+and+I+love+to+play+competitively+in+badminton;%22Those+who+cannot+remember+the+past+are+condemned+to+repeat+it%22" alt="Typing SVG" />
     </a>
 
 
