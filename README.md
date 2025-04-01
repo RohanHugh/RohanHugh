@@ -21,3 +21,5 @@
 | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css" title="JS, HTML, CSS"/></a></div> |  <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=neovim" title="Neovim"/></a></div> |  | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows" title="Windows"/></a></div> |
 
 <hr>
+
+<!-- You're not getting the coursework lol, get farmed and ty for the follow, go do it -->
